@@ -1,4 +1,4 @@
-package com.woq.gamelist;
+package com.woq.gamelist.entities;
 
 import jakarta.persistence.*;
 
